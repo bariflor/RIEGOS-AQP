@@ -1,0 +1,27 @@
+*{
+	outline: 1px solid red;
+}
+#top-menu {
+    margin-bottom: 0;
+    border: 0;
+    border-radius: 0;
+    background: #FFFFFF;
+    height: auto;
+    color: #777777;
+    padding: 10px 0 2px 0;
+    border-top: 4px solid #FFB642;
+    h1{
+    	font-size: 30px;
+    }
+}
+/*===============================
+=            section #6 - footer  =
+===============================*/
+#colophon {
+    background-color: #080404;
+    border-top: 1px solid #111;
+    clear: both;
+    color: #ffffff;
+    padding: 15px 0;
+    text-align: center;
+}
